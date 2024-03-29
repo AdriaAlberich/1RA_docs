@@ -15,7 +15,7 @@ Qualsevol altre DLC que compris o disposis, es un plus, però no es necessari.
 
 Apart del joc i els DLC, necessitaràs també:
 
-* [TeamSpeak 3](https://www.teamspeak.com/en/downloads/#ts3client) instal·lat (ultima versió)
+* [TeamSpeak 3](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe) instal·lat.
 * Micròfon i auriculars funcionals.
 * **PC amb Windows** que compleixi els requisits mínims de l'ArmA 3 (fes clic [aqui](https://arma3.com/requirements) per veure els requisits).
 * Connexió a Internet estable.

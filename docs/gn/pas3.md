@@ -33,4 +33,8 @@ http://www.cavallersdelcel.cat/magatzem/ArmA/squadcc/cc_elteunick.xml
 
 Substituïnt "elteunick" pel sobrenom que has triat en minúscules tal i com s'explica a l'enllaç del forum.
 
+!!! danger "Important"
+
+	Si tens problemes per registrar-te al fòrum, pots passar-li el número al teu instructor i ell s'encarregarà de la resta.
+
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas4)

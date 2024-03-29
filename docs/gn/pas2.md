@@ -10,6 +10,10 @@ Per poder descarregar els mods cal que vagis al següent enllaç de la `Steam Wo
 
 ![image](_imatges/llistamods.jpg){: .center}
 
+Si t'apareix el següent missatge, fes clic a `Add Only`:
+
+![image](_imatges/llistamods2.jpg){: .center}
+
 La descàrrega dels mods es fa automàticament en segon pla, com qualsevol altre joc de Steam.
 
 ## Paquets de compatibilitat
@@ -30,7 +34,7 @@ Un cop hagi finalitzat la descàrrega de mods, cal que configuris les opcions de
 
 ![image](_imatges/configuracio.jpg){: .center}
 
-Espera que carregui els mods.
+Espera que carreguin els mods.
 
 2- Fes clic al botó `Battleye` i desmarca la casella `Enable Battleye anti-cheat software`.
 
