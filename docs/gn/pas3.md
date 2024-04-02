@@ -25,7 +25,7 @@ Un cop fet això, clica sobre `Unit` i s'obrirà la pantalla següent.
 
 ![image](_imatges/perfil3.png){: .center}
 
-Has de copiar el número que hi ha destacat en vermell. Després has d'anar [aquí](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixar un missatge amb aquest.
+Has de copiar el número que hi ha destacat en vermell. Després has d'anar [aquí](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixar un missatge amb aquest número.
 
 Seguidament has d'introduïr la següent URL al camp `SQUAD XML`:
 
@@ -35,6 +35,6 @@ Substituïnt "elteunick" pel sobrenom que has triat en minúscules tal i com s'e
 
 !!! danger "Important"
 
-	Si tens problemes per registrar-te al fòrum, pots passar-li el número al teu instructor i ell s'encarregarà de la resta.
+	Al registrar-te al fòrum has d'avisar al instructor per a que et validi l'usuari.
 
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas4)

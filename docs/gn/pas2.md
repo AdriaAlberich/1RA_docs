@@ -1,6 +1,6 @@
 # Pas 2: Descàrrega de mods
 
-El següent pas es descarregar-te els mods que utilitzem per les nostres partides. Aquests son gratuïts i ens permeten disposar d'una gran varietat de material, armament i mapes per les nostres missions.
+El següent pas és descarregar-te els mods que utilitzem a les nostres partides. Son gratuïts i ens permeten disposar d'una gran varietat de material, armament i mapes per les nostres missions.
 
 ## Steam Workshop
 

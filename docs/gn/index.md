@@ -30,11 +30,11 @@ Per a les comunicacions diàries i habituals utilitzem [Discord](https://discord
 
 El nostre canal de Discord: [https://discord.gg/4RGJdTv](https://discord.gg/4RGJdTv)
 
-Es important que abans de continuar, et connectis i et presentis.
+Abans de continuar, has de connectar-te i presentar-te a través de Discord.
 
 Un instructor del grup es posarà en contacte amb tu per acompanyar-te amb tot el procés i ajudar-te en el que necessitis.
 
-Si tens clars els punts anteriors, a continuació tens els passos a completar per convertir-te en un nou membre del grup.
+Quan hagis enllestit els punts anteriors, següeix els següents passos per convertir-te en un nou membre del grup.
 
 Recomanem tenir la configuració d'idioma de Steam en `anglès` per a una millor comprensió dels passos de la guia.
 

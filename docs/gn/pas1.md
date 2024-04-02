@@ -11,7 +11,7 @@ També recomanem adquirir els següents DLC, pero no son necessaris per particip
 * [ArmA 3 S.O.G Prairie Fire](https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/) (DLC).
 * [ArmA 3 Western Sahara](https://store.steampowered.com/app/1681170/Arma_3_Creator_DLC_Western_Sahara/) (DLC).
 
-Qualsevol altre DLC que compris o disposis, es un plus, però no es necessari.
+Si compres o disposes de qualsevol altre DLC, es considera un plus, però no és obligatori.
 
 Apart del joc i els DLC, necessitaràs també:
 
