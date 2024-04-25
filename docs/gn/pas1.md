@@ -10,6 +10,8 @@ També recomanem adquirir els següents DLC, pero no son necessaris per particip
 
 * [ArmA 3 S.O.G Prairie Fire](https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/) (DLC).
 * [ArmA 3 Western Sahara](https://store.steampowered.com/app/1681170/Arma_3_Creator_DLC_Western_Sahara/) (DLC).
+* [ArmA 3 Reaction Forces](https://store.steampowered.com/app/2647760/Arma_3_Creator_DLC_Reaction_Forces/) (DLC).
+
 
 Si compres o disposes de qualsevol altre DLC, es considera un plus, però no és obligatori.
 
