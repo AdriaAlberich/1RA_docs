@@ -18,15 +18,11 @@ La descàrrega dels mods es fa automàticament en segon pla, com qualsevol altre
 
 ## Paquets de compatibilitat
 
-Si disposes dels DLC `S.O.G Prairie Fire`, `Western Sahara` i `Reaction Forces`, et pots saltar aquest pas. En cas contrari caldrà que et subscriguis als següents `paquets de compatibilitat`:
-
-[ArmA 3 S.O.G Prairie Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806)
-
-[ArmA 3 Western Sahara](https://steamcommunity.com/sharedfiles/filedetails/?id=2636962953)
+Si disposes del DLC `Reaction Forces`, et pots saltar aquest pas. En cas contrari caldrà que et subscriguis al `paquet de compatibilitat` (es de franc):
 
 [ArmA 3 Reaction Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=3150497912)
 
-Es important que només et subscriguis als paquets dels DLCs que no tinguis comprats, si més endavant els compres hauràs de cancel·lar la subscripció.
+Si més endavant el compres, hauràs de cancel·lar la subscripció.
 
 ## Configuració del llançador
 
