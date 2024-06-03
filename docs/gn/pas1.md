@@ -10,7 +10,7 @@ Per poder participar sense problemes a les missions del grup, cal tenir una copi
 
 Gràcies als DLC podem realitzar operacions de gran realisme amb contingut molt acurat històricament que va des de Vietnam fins a l'actualitat.
 
-El cost total es d'uns 40€ i recomanem fer la compra durant els periodes d'ofertes que son cada 1 o 2 mesos.
+El cost total es d'uns 40€ en descompte. Per això recomanem fer la compra durant els periodes d'ofertes que tenen lloc periòdicament cada 1 o 2 mesos.
 
 També recomanem adquirir els següents DLC, pero no son necessaris per participar en la majoria de missions del grup:
 
