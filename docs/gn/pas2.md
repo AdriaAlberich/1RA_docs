@@ -4,9 +4,11 @@ El següent pas és descarregar-te els mods que utilitzem a les nostres partides
 
 ## Steam Workshop
 
-Per poder descarregar els mods cal que vagis al següent enllaç de la `Steam Workshop` i facis clic al botó `Subscribe to all`.
+Per poder descarregar els mods cal que vagis als següents enllaços de la `Steam Workshop` i facis clic al botó `Subscribe to all`.
 
-[Llista de mods oficials](https://steamcommunity.com/sharedfiles/filedetails/?id=3166393484)
+[Mods oficials: https://steamcommunity.com/sharedfiles/filedetails/?id=3166393484](https://steamcommunity.com/sharedfiles/filedetails/?id=3166393484)
+
+*[Paquets de compatibilitat: https://steamcommunity.com/sharedfiles/filedetails/?id=3337739402](https://steamcommunity.com/sharedfiles/filedetails/?id=3337739402)
 
 ![image](_imatges/llistamods.jpg){: .center}
 
@@ -16,13 +18,7 @@ Si t'apareix el següent missatge, fes clic a `Add Only`:
 
 La descàrrega dels mods es fa automàticament en segon pla, com qualsevol altre joc de Steam.
 
-## Paquets de compatibilitat
-
-Si disposes del DLC `Reaction Forces`, et pots saltar aquest pas. En cas contrari caldrà que et subscriguis al `paquet de compatibilitat` (es de franc):
-
-[ArmA 3 Reaction Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=3150497912)
-
-Si més endavant el compres, hauràs de cancel·lar la subscripció.
+*Si disposes d'algun de DLC addicional, no caldrà que descarreguis el paquet de compatibilitat corresponent, pots directament carregar el DLC des del llançador.
 
 ## Configuració del llançador
 
